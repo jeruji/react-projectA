@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "outDir": "dist",
+    "module": "ES6",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true
+  },
+  "references": [
+    {
+      "path": "../shared"
+    }
+  ]
+}
